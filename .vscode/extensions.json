@@ -1,9 +1,9 @@
 {
-    "recommendations": [
-        "ritwickdey.liveserver",
+    "recommendations": [        
         "esbenp.prettier-vscode",
+        "mechatroner.rainbow-csv",
         "bierner.github-markdown-preview",
         "davidanson.vscode-markdownlint",
-        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        //"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
     ]
 }

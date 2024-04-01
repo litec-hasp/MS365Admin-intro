@@ -2,7 +2,6 @@
   "scripts": [".reveal/mermaid.min.js"],
   "assetsDir": "assets",
   "css": [".reveal/style.css"],
-  "glob": ["**/exercises/*.md","**/lectures/*.md"],
   "port": 1975,
 
   "separator": "\r?\n\r?\n---\r?\n\r?\n",

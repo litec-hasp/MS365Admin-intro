@@ -1,14 +1,26 @@
 ---
-title: reveal-md slides
+title: README
 author: hasp
 ---
 
-# tmpl-reveal-md
+# Introduction to MS 365 Admin Center
+
+## Start with
+## ➡️ [INTRO](./00-Intro-MS365-Admin-Center.md) ⬅️
+
+---
+
+<!-- .slide: data-background-image="https://media.tenor.com/AVa6-PqQpuMAAAAC/emergency-stop-button-emergency.gif" data-background-opacity="0.2" -->
+
+## ⛔ STOP!
+
+>  Ignore the following text! This is just needed if you are interested in `reveal-md`!
+
+---
+
+## Info - `reveal-md`
 
 Template / Introductory Repository to explain markdown slide creation with reveal-md.
-
-> [!Warning]
-> ⚠️**Work in Progress!**
 
 ---
 
@@ -24,7 +36,7 @@ Template / Introductory Repository to explain markdown slide creation with revea
 
 ## Usage
 
-- To show **all documents** of `lectures` and `exercise` folder:
+- To show **all documents**:
   - stay in root-folder of repository
   - and start: `reveal-md . -w`
     - `-w` is optional and watches for file changes
@@ -54,36 +66,3 @@ Template / Introductory Repository to explain markdown slide creation with revea
 - Mermaid graphs: <https://mermaid.js.org/>
   - especially the [docs](https://mermaid.js.org/intro/)
   - consider the mermaid [live editor](https://mermaid.live)
-
----
-
-### TODOs
-
-- consider to update `mermaid.min.js` every now and then
-  - atm version 10.9.0 is used
-  - see/download [mermaid.min.js](https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.0/mermaid.min.js) from CDN
-- Improvement of `README.md` ... 😜
-- Add `reveal-md.json` and `.reveal`-folder to other templates
-
----
-
-## Mermaid Problems
-
-> [!WARNING]
-> ⚠️ Mermaid not working as intended<br> (see this [issue](https://github.com/webpro/reveal-md/issues/197))
-
-1. **Settings Error**: settings not working in:
-   - `reveal-md.json` and
-   - YAML Frontmatter of `.md`-files
-2. **Display Error**: the mermaid graph size is often not correctly show
-
-> Another problem (of reveal-md):<br> `favicon.ico` not working as intended
-
----
-
-## Mermaid Workarounds
-
-1. **Settings Error**: add mermaid settings directly to diagram (as frontmatter)
-2. **Display error**: refresh the browser (`Ctrl+R`) for redraw
-   - this needs the setting `"history": true` in `reveal-md.json`
-   - otherwise you start at slide one.- use Typora and vscode!

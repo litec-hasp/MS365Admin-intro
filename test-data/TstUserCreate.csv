@@ -1,0 +1,9 @@
+﻿version:v1.0
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+_tst_Rick_Sanchez,_tst_rick@<Domain>.onmicrosoft.com,PickleRick-001,No,,,Teacher,TST,Austria,,,,,,,,
+_tst_Morty_Smith,_tst_morty@<Domain>.onmicrosoft.com,PickleRick-002,No,,,Student,TST,Austria,,,,,,,,
+_tst_Finn_Human,_tst_finn@<Domain>.onmicrosoft.com,LandOfOoo-001,No,,,Student,TST,Austria,,,,,,,,
+_tst_Jake_Dog,_tst_jake@<Domain>.onmicrosoft.com,LandOfOoo-002,No,,,Teacher,TST,Austria,,,,,,,,
+_tst_Princess_Bubblegum,_tst_bubblegum@<Domain>.onmicrosoft.com,LandOfOoo-003,No,,,Teacher,TST,Austria,,,,,,,,
+_tst_Aang_Avatar,_tst_aang@<Domain>.onmicrosoft.com,LastAirbender-001,No,,,Student,TST,Austria,,,,,,,,
+_tst_Katara_Water,_tst_katara@<Domain>.onmicrosoft.com,LastAirbender-002,No,,,Student,TST,Austria,,,,,,,,
