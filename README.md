@@ -18,13 +18,13 @@ author: hasp
 
 ---
 
-## Info - `reveal-md`
+## Info on `reveal-md`
 
-Template / Introductory Repository to explain markdown slide creation with reveal-md.
+**Markdown slides with reveal-md.**
 
 ---
 
-## Installation / Update
+### Installation / Update
 
 1. install node.js: `winget install OpenJS.NodeJS.LTS`
 2. install reveal-md: `npm install -g reveal-md`
@@ -34,7 +34,7 @@ Template / Introductory Repository to explain markdown slide creation with revea
 
 ---
 
-## Usage
+### Usage
 
 - To show **all documents**:
   - stay in root-folder of repository
@@ -48,7 +48,7 @@ Template / Introductory Repository to explain markdown slide creation with revea
 
 ---
 
-## Important files
+### Important files
 
 - global configuration: `reveal-md.json`
 - can be overwritten by YAML frontmatter in `md`-files
@@ -58,7 +58,7 @@ Template / Introductory Repository to explain markdown slide creation with revea
 
 ---
 
-## Important Links
+### Important Links
 
 - Our slides tool: <https://github.com/webpro/reveal-md>
 - Based on this HTML slide tool: <https://revealjs.com/>
