@@ -1,6 +1,7 @@
 ---
 title: README
 author: hasp
+date: 2024-04-01
 ---
 
 # Introduction to MS 365 Admin Center
