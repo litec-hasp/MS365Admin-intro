@@ -1,0 +1,38 @@
+{
+  "markdownlint.config": {
+    "default": true,
+    "MD001": false,
+    "MD025": false,
+    "MD026": false,
+    "MD035": false,
+    "MD053": false,
+    //"MD007": { "indent": 4 },
+    "no-hard-tabs": true,
+    "no-inline-html": {
+      "allowed_elements": ["br", "small", "img", "p", "div", "span", "iframe"]
+    }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#6c9e3c",
+    "activityBar.background": "#6c9e3c",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#355f8b",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#6c9e3c",
+    "statusBar.background": "#53792e",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#6c9e3c",
+    "statusBarItem.remoteBackground": "#53792e",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#53792e",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#53792e99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#53792e",
+  "cSpell.words": [
+    "frontmatter"
+  ]
+}
