@@ -27,6 +27,8 @@ theme: beige
   
 - **Entry point** for accessing additional specialized admin centers.
 
+- Alternative for fast access: <https://cmd.ms>
+
 </div><div style="flex:25%">
 
 <br>
